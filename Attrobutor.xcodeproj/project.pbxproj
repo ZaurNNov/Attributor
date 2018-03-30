@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE004467206E106F008846C8 /* TextStatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE004466206E106F008846C8 /* TextStatsViewController.m */; };
 		CEB0EBC9206BABD600648C91 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CEB0EBC8206BABD600648C91 /* AppDelegate.m */; };
 		CEB0EBCC206BABD600648C91 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEB0EBCB206BABD600648C91 /* ViewController.m */; };
 		CEB0EBCF206BABD600648C91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEB0EBCD206BABD600648C91 /* Main.storyboard */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE004465206E106F008846C8 /* TextStatsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TextStatsViewController.h; sourceTree = "<group>"; };
+		CE004466206E106F008846C8 /* TextStatsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TextStatsViewController.m; sourceTree = "<group>"; };
 		CEB0EBC4206BABD600648C91 /* Attrobutor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Attrobutor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB0EBC7206BABD600648C91 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CEB0EBC8206BABD600648C91 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				CEB0EBD2206BABD600648C91 /* LaunchScreen.storyboard */,
 				CEB0EBD5206BABD600648C91 /* Info.plist */,
 				CEB0EBD6206BABD600648C91 /* main.m */,
+				CE004465206E106F008846C8 /* TextStatsViewController.h */,
+				CE004466206E106F008846C8 /* TextStatsViewController.m */,
 			);
 			path = Attrobutor;
 			sourceTree = "<group>";
@@ -145,6 +150,7 @@
 				CEB0EBCC206BABD600648C91 /* ViewController.m in Sources */,
 				CEB0EBD7206BABD600648C91 /* main.m in Sources */,
 				CEB0EBC9206BABD600648C91 /* AppDelegate.m in Sources */,
+				CE004467206E106F008846C8 /* TextStatsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
