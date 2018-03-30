@@ -19,7 +19,8 @@
 -(void)viewDidLoad {
     [super viewDidLoad];
     
-    self.textToAnalyze = [[NSAttributedString alloc] initWithString: @"test" attributes:@{NSForegroundColorAttributeName: [UIColor greenColor], NSStrokeWidthAttributeName: @3}];
+    //test
+//    self.textToAnalyze = [[NSAttributedString alloc] initWithString: @"test" attributes:@{NSForegroundColorAttributeName: [UIColor greenColor], NSStrokeWidthAttributeName: @3}];
 }
 
 -(void)setTextToAnalyze:(NSAttributedString *)textToAnalyze
